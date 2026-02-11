@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
 <h1 align="center">Hi 👋, I'm Sangram Rath</h1><br><h3 align="center">Aspiring Software Engineer | Cybersecurity Enthusiast | AI Builder</h3><br><br>---<br><br>### 🚀 About Me<br>- 🎓 B.Tech CSE student at GIET University<br>- 🔐 Interested in Cybersecurity, AI, and Software Development<br>- 💻 Skilled in C, Python, Web Development<br>- 🧠 Currently learning: Data Structures, AI, and Backend Development<br>- 🎯 Goal: Crack high-paying SDE role or cybersecurity internship<br><br>---<br><br>
 
 
